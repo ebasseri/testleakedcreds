@@ -8,6 +8,9 @@
 /
 /
 
-AadClientId:"260c15e7-1e97-44cf-968d-2e22e508895e"
-AadSecret:"~mS8Q~IMj0bkUx.8cjrSGMA7WYbxiE.lZrjxRawB"
-AadTenantId: "536279f6-15cc-45f2-be2d-61e352b51eef" 
+
+"AadClientId": "a861a2b3-0a33-4904-8987-a67f5b19a850",
+"AadSecret": "p-k8Q~p9OiFq37WE3YGT-DhZV~Pn6JoixpM~9bJx",
+"AadTenantId": "92b348b9-b015-47de-94ce-8708f4efe13d",
+"AadTenantDomain": "IDSECHackathon2023.onmicrosoft.com",
+"Name": "DevOps Automation",
